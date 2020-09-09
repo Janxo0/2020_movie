@@ -1,0 +1,16 @@
+.detail {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.detail .detail_title {
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.detail .detail_summary {
+    width: 1000px;
+}
